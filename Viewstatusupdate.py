@@ -1,5 +1,4 @@
-import tweepy
-import time
+import tweepy, time
 # this bot just enables you to read status on the python console, does not do anything other than read.
 
 CONSUMER_KEY ='your consumer key goes here'
