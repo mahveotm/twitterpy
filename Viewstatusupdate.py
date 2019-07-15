@@ -41,6 +41,7 @@ def readtweet():
 while True:
     readtweet()
     time.sleep(45)
-	#the time can be changed to whatever you want. I usd 45 sec to allow for breaks and to avoid me from exceeding the rate limit.
+	#the time can be changed to whatever you want.
+    # I usd 45 sec to allow for breaks and to avoid me from exceeding the rate limit.
 	#Thanks,
 	#Mahveotm, but freely usable and distributable, cheers!
