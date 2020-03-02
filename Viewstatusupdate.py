@@ -44,4 +44,4 @@ while True:
 	#the time can be changed to whatever you want.
     # I usd 45 sec to allow for breaks and to avoid me from exceeding the rate limit.
 	#Thanks,
-	#Mahveotm, but freely usable and distributable, cheers!
+	#(c) Mahveotm, but freely usable and distributable, cheers!
