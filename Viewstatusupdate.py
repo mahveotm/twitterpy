@@ -1,10 +1,10 @@
 import tweepy, time
 # this bot just enables you to read status on the python console, does not do anything other than read.
 
-CONSUMER_KEY = '$consumer_key'
-CONSUMER_SECRET ='$consumer_secret'
-ACCESS_KEY ='$access_key'
-ACCESS_SECRET ='$access_secret'
+CONSUMER_KEY = os.environ['consumer_key']
+CONSUMER_SECRET =os.environ['consumer_secret']
+ACCESS_KEY =os.environ['access_key']
+ACCESS_SECRET =os.environ['access_secret']
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
