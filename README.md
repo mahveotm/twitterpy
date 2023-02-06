@@ -27,5 +27,5 @@ Dont have these values? [Twitter Developer Portal](https://developer.twitter.com
 #### Run Code
 
 ```bash
-python Viewstatusupdate.py
+python tweet_reader.py
 ```
